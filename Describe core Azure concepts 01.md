@@ -31,4 +31,23 @@ Describe identity, governance, privacy, and compliance features= 20-25%
 
 Describe Azure cost management and Service Level Agreements=10-15%
 
+## Learning objectives
+After completing this module, you'll be able to:
+
+Describe the basic concepts of cloud computing.
+Determine whether Azure is the right solution for your business needs.
+Differentiate between the different methods of creating an Azure subscription.
+
+## Prerequisites
+You should be familiar with basic computing concepts and terminology.
+Familiarity with cloud computing is helpful but isn't necessary.
+
+## What is cloud computing?
+Have you ever wondered what cloud computing is? It's the delivery of computing services over the internet, which is otherwise known as the cloud. These services include servers, storage, databases, networking, software, analytics, and intelligence. Cloud computing offers faster innovation, flexible resources, and economies of scale.
+
+## Why is cloud computing typically cheaper to use?
+1. Lower your operating costs.
+2. Run your infrastructure more efficiently.
+3. Scale as your business needs change.
+
 
