@@ -48,4 +48,45 @@
 * Seat Time : Time to review instructions + Read & Accept NDA + Complete the Exam + Feedback at the end
 4. Exam Valid Until : 24 Months
 
+## Cloud Concept 
+
+# What is Cloud Computing?
+1. Using a network of remote servers hosted on the internet to store, mangage and process data rather then a local server or personal computer.
+2. On-Premise : Buy own server + Hire IT Persons + pay or rent the real-estate + take all risk.
+3. Cloud Provicer : Someone else do all the above things you need just to configure cloud services & code. 
+4. Dedicated Server : One Physical Mechine + Single Business + Very Expensive + High Maintanance + High Security.
+5. Virtual Private Server : One Physical Mechine + Single Business + Virtualized in-to sub-mechines + Run multiple apps.
+6. Shared Hosting : One Physical Mechine + Multipe Business + Very Cheap + Very Limited.
+7. Cloud Hosting : Multiple Physical Mechine at as one system + Abstracted by multiple cloud services + Flexible + Scalable + Secure + Cost Effective + High Configurability
+
+# Common Cloud Services
+1. Hundreds of cloud servies.
+
+# IaaS : Infrastructure as a Service : 4 most common type
+1. Computer : Virutal Computer that can run app, program + code
+2. Storage : Virutal hard driver
+3. Networking : Virtual Networking
+4. Databases : Virtual Database
+
+# What is Microsoft and Azure?
+1. Azure : Microsoft Cloud Service Provider OR CSPs
+2. Bright Blue Color of the cloudless sky
+
+# Benefits of Cloud Computing?
+1. Cost Effective : pay for what you consume + no up-front cost + Pay as you go + Thousand of users sharing the cost of the resource.
+2. Global : Anywhere in the world
+3. Secure : Cloud services can by secure by default.
+4. Reliable : Data Backup + Disaster recovery + data replication + fault tolerance
+5. Scalable : increase / descrease  + services based on demand
+6. Elastic : Automate scaling / Drop in demand
+7. Current The underlying hardware and software is upgrade or replace by provider withour interruption to you.
+
+# Types of Cloud Computing
+1. SaaS : Software as a Service : run & manage by provider. like Saleforce + Gmail + Office 365 : For Customers
+2. PaaS : Platform as a Service : Focus on the deployment & Managment of apps. like AWS + Heroku + Google App Engine : For Developers.
+3. IaaS : Infrastructure as a Service :  Basic building block of cloud IT + Provide access to networking feature computer + storage like Azure + AWS + Oracle Cloud : For Admins
+
+# Types of Cloud Computing Responsibilities
+![image](https://user-images.githubusercontent.com/74914096/168781257-0ba742f3-4114-4b8d-af82-0d0feb486dd7.png)
+
 
