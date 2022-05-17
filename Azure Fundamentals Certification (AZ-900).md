@@ -88,7 +88,8 @@
 3. IaaS : Infrastructure as a Service :  Basic building block of cloud IT + Provide access to networking feature computer + storage like Azure + AWS + Oracle Cloud : For Admins
 
 # Types of Cloud Computing Responsibilities
-![image](https://user-images.githubusercontent.com/74914096/168781257-0ba742f3-4114-4b8d-af82-0d0feb486dd7.png)
+![image](https://user-images.githubusercontent.com/74914096/168787964-21b2a654-284a-439b-95ee-5fe67d09663b.png)
+
 
 # Cloud Deployment Models
 1. Public Cloud : Everything built on the cloud provider  + Cloud Native + Everything run on azure.
