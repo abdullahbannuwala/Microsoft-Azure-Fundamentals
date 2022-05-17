@@ -93,8 +93,11 @@
 1. Public Cloud : Everything built on the cloud provider  + Cloud Native + Everything run on azure.
 2. Private Cloud : Everything build on company data center + On-Premise + The cloud could be OpenStack.
 3. Hybrid : On-Premise & Cloud Service Provider
+4. Cross Cloud : Multiple Cloud Provider
 
-![image](https://user-images.githubusercontent.com/74914096/168785990-239a105f-a14c-4a7f-889d-554b4c1a7674.png)
+![image](https://user-images.githubusercontent.com/74914096/168786680-25b9b7d6-d5f4-4a4d-9e22-3db9e90a53b9.png)
+![image](https://user-images.githubusercontent.com/74914096/168786532-c419b6e0-11d8-4be8-b7eb-b36b0cb518ab.png)
+![image](https://user-images.githubusercontent.com/74914096/168787198-60f24fa2-238f-49eb-a81d-ab6cdd1de24f.png)
 
-![image](https://user-images.githubusercontent.com/74914096/168786119-3145f9f3-0ac1-449c-b63e-559af1de37dd.png)
+
 
