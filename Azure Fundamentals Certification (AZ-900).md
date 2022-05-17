@@ -6,7 +6,8 @@
 
 # The Azure RoadMap
 1. Fundamental + Associate + Expert + Specialty 
-![image](https://user-images.githubusercontent.com/74914096/168637357-ee0d78cf-e44f-440f-9588-d6f799b71699.png)
+![image](https://user-images.githubusercontent.com/74914096/168787707-da0c6a35-4ece-4dd8-9084-98f094c4a1bd.png)
+
 
 # Who is the AZ-900 for?
 1. Sales & Management to help inform VPs or CEO reasons for their company to utilize Microsoft azure.
