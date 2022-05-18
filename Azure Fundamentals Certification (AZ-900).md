@@ -124,6 +124,15 @@
 # High Elasticity
 ![image](https://user-images.githubusercontent.com/74914096/168988888-17ed1bcd-c31a-45fc-a100-d0327069e6bd.png)
 
+# High Fault Tolerance
+![image](https://user-images.githubusercontent.com/74914096/169007950-23601345-d245-4a91-8307-611da105666f.png)
+
+# Highly Durability
+![image](https://user-images.githubusercontent.com/74914096/169008786-805ed59a-3319-45bc-a190-33bbbbfdadc6.png)
+
+
+
+
 
 
 
