@@ -101,5 +101,13 @@
 ![image](https://user-images.githubusercontent.com/74914096/168786532-c419b6e0-11d8-4be8-b7eb-b36b0cb518ab.png)
 ![image](https://user-images.githubusercontent.com/74914096/168787198-60f24fa2-238f-49eb-a81d-ab6cdd1de24f.png)
 
+# Total Cost of Ownership
+![image](https://user-images.githubusercontent.com/74914096/168981101-f8e4dc14-c622-4233-ae8b-bf60959d6a1c.png)
+
+# CAPEX Vs OPEX
+![image](https://user-images.githubusercontent.com/74914096/168981696-0883b38a-c8cb-4335-bffb-790bb188d205.png)
+
+
+
 
 
