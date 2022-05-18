@@ -131,6 +131,20 @@
 ![image](https://user-images.githubusercontent.com/74914096/169008786-805ed59a-3319-45bc-a190-33bbbbfdadc6.png)
 
 
+## Evolution of Compute
+# Dedicated Server
+![image](https://user-images.githubusercontent.com/74914096/169012879-dca30655-c263-47dd-914c-e60f0dd7fe60.png)
+
+# VM
+![image](https://user-images.githubusercontent.com/74914096/169013303-4baa6d65-9fa0-4823-8076-7969a9e2f299.png)
+
+# Containers
+![image](https://user-images.githubusercontent.com/74914096/169013689-5e1e018d-849d-419f-9ea0-c00b905a82db.png)
+
+# Functions
+![image](https://user-images.githubusercontent.com/74914096/169014005-a74719ca-58c2-4672-a5de-b6d64fbc0992.png)
+
+
 
 
 
