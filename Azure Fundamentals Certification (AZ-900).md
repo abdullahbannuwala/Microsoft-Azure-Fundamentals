@@ -145,6 +145,46 @@
 ![image](https://user-images.githubusercontent.com/74914096/169014005-a74719ca-58c2-4672-a5de-b6d64fbc0992.png)
 
 
+# Global Infrastructure
+
+# Regions and Geographies
+1. Region : is a grouping of multiple datacenters (Availability Zone) + 58 Region accross 140 Countries.
+2. Geograhy : Discreet market of two or more regions that preserves data residency & compliance boundaries.
+3. Azure Geographies : USA + Azure Government US + Canada + Barzil + Mexico .i.e you want to guarantee that data will remain within canda.
+
+![image](https://user-images.githubusercontent.com/74914096/169470771-7be38be0-56f6-4098-b091-7e33ea1f7953.png)
+![image](https://user-images.githubusercontent.com/74914096/169470858-4a42eb6b-3117-412e-a380-0e77b4392749.png)
+
+# Paired Regions
+1- One region is paired with another region 300 miles away.
+2- Only one region is updated at time .
+3- Some Azure Services rely on paried regions for disaster recovery.
+4- GRS (azure geo-redundant storage) : replicate data to a secondary region automatically.
+5- Example : Canada + Canada Central + Canada East
+
+# Region Types and Service Availability
+1. Not all azure services are available in every region
+2. Recommended regions : provide broadest range of servies + Design to support Availabity Zone 
+3. Alternate regions : region that extends footprint within a data residency boundary where recommended regions also exist + Not support Availabity Zone + label as "Other" in azure portal.
+4. General Availability : Service publicy availabil to everyone.
+
+# Azure Cloud Services 
+1.  3 Catagories
+2.  Foundational : Available immediately or in 12 month in recommended + alternate region in GA.
+3.  MainStream : Available immediately or in 12 month in recommended regions + maybe available in alternate region on customer demand.
+4.  Specialized : Available in recommended or alternate region based on customer demand.
+
+
+# Special Regions
+![image](https://user-images.githubusercontent.com/74914096/169475053-3281ceb1-d574-495d-99b8-1d30b303f3f2.png)
+
+# Availability Zones
+1. AZ : Physical Location with one or more data-center.
+2. DataCenter : Secured that contains hundard of thousand computers. 
+3. Region : Generally contain 3 AZ + Datacenter within region are isolated with each other in differnt buildings but they will close engouh to avoid latency.
+4. For high availability we run workload in at least 3  AZs.
+
+![image](https://user-images.githubusercontent.com/74914096/169476995-a1dfb935-a4d7-4d13-8693-50d779796911.png)
 
 
 
