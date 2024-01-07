@@ -34,10 +34,9 @@
 3. Do paid online practice exams -- exampro.co
 
 # Introduction - Exam Guide Walkthrough -- Content Outline
-1. Cloud Concepts - 15-25%
-2. Azure Core Services - 30-35%
-3. Security + Privacy + Compliance + Trust - 25-30%
-4. Pricing & Support - 20-25%
+1. Describe cloud concepts (25–30%)
+2. Describe Azure architecture and services (35–40%)
+3. Describe Azure management and governance (30–35%)
 
 # Grading
 1. Passing Grade is 700/1000
@@ -59,6 +58,8 @@
 5. Virtual Private Server : One Physical Mechine + Single Business + Virtualized in-to sub-mechines + Run multiple apps.
 6. Shared Hosting : One Physical Mechine + Multipe Business + Very Cheap + Very Limited.
 7. Cloud Hosting : Multiple Physical Mechine at as one system + Abstracted by multiple cloud services + Flexible + Scalable + Secure + Cost Effective + High Configurability
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/ce707d51-707d-43c7-8e87-3f95918c8165)
+
 
 # Common Cloud Services
 1. Hundreds of cloud servies.
