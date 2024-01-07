@@ -62,6 +62,9 @@
 
 # Common Cloud Services
 1. Hundreds of cloud servies.
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/f5721ccd-35b5-4fbb-a512-eb7f3ac2ad88)
+
+
 
 # IaaS : Infrastructure as a Service : 4 most common type
 1. Computer : Virutal Computer that can run app, program + code
