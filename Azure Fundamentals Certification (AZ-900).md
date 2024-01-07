@@ -141,6 +141,14 @@
 # Highly Durability
 ![image](https://user-images.githubusercontent.com/74914096/169008786-805ed59a-3319-45bc-a190-33bbbbfdadc6.png)
 
+# Business Continuity Plan
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/a510d87b-b934-4944-a08b-6fb4018aed68)
+
+# Disaster Recovery Options
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/6f5bca94-aea3-4935-bde4-f240ea574e21)
+
+
+
 
 ## Evolution of Compute
 # Dedicated Server
