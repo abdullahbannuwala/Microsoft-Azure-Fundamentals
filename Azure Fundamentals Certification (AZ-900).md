@@ -117,11 +117,13 @@
 ![image](https://user-images.githubusercontent.com/74914096/168981696-0883b38a-c8cb-4335-bffb-790bb188d205.png)
 
 # Cloud Architecture Terminologies
-1. Availability  : Remains available
-2. Scalability : Grow rapidly 
-3. Elasticity : Shrik & grow to meet the demand
-4. Fault Tolerance : Prevent a failure
-5. Disaster Recovery OR Highly Durable : Recover from a failure
+1. Availability: Remains available
+2. Scalability: Grow Rapidly 
+3. Elasticity: Shrik & grow to meet the demand
+4. Fault Tolerance: Prevent a failure
+5. Disaster Recovery OR Highly Durable: Recover from a failure
+   ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/805c77c9-27b2-4363-a380-b01b20a99b12)
+
 
 
 # Hight Availability
