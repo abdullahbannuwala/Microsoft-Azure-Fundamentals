@@ -62,41 +62,47 @@
 
 
 # Common Cloud Services
-1. Hundreds of cloud servies.
+ Hundreds of cloud services.
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/f5721ccd-35b5-4fbb-a512-eb7f3ac2ad88)
 
 
 
-# IaaS : Infrastructure as a Service : 4 most common type
-1. Computer : Virutal Computer that can run app, program + code
-2. Storage : Virutal hard driver
-3. Networking : Virtual Networking
-4. Databases : Virtual Database
+# IaaS: Infrastructure as a Service: 4 most common type
+1. Computer: Virtual Computer that can run the app, program + code
+2. Storage: Virtual hard driver
+3. Networking: Virtual Networking
+4. Databases: Virtual Database
 
 # What is Microsoft and Azure?
-1. Azure : Microsoft Cloud Service Provider OR CSPs
-2. Bright Blue Color of the cloudless sky
+1. Azure: Microsoft Cloud Service Provider OR CSPs
+2. The Bright Blue Color of the cloudless sky
 
 # Benefits of Cloud Computing?
-1. Cost Effective : pay for what you consume + no up-front cost + Pay as you go + Thousand of users sharing the cost of the resource.
-2. Global : Anywhere in the world
-3. Secure : Cloud services can by secure by default.
+1. Cost Effective: pay for what you consume + no up-front cost + Pay as you go + Thousand of users sharing the cost of the resource.
+2. Global: Anywhere in the world
+3. Secure: Cloud services can be secure by default.
 4. Reliable : Data Backup + Disaster recovery + data replication + fault tolerance
-5. Scalable : increase / descrease  + services based on demand
-6. Elastic : Automate scaling / Drop in demand
-7. Current The underlying hardware and software is upgrade or replace by provider withour interruption to you.
+5. Scalable: increase/decrease  + services based on demand
+6. Elastic: Automate scaling / Drop in demand
+7. Current The underlying hardware and software are upgraded or replaced by the provider without interruption to you.
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/101551b6-30f2-4a35-a6ac-75251b75e3ac)
+
 
 # Types of Cloud Computing
-1. SaaS : Software as a Service : run & manage by provider. like Saleforce + Gmail + Office 365 : For Customers
-2. PaaS : Platform as a Service : Focus on the deployment & Managment of apps. like AWS + Heroku + Google App Engine : For Developers.
-3. IaaS : Infrastructure as a Service :  Basic building block of cloud IT + Provide access to networking feature computer + storage like Azure + AWS + Oracle Cloud : For Admins
+1. SaaS: Software as a Service: run & managed by provider. like Salesforce + Gmail + Office 365: For Customers
+2. PaaS: Platform as a Service: Focus on the deployment & management of apps. like AWS + Heroku + Google App Engine: For Developers.
+3. IaaS: Infrastructure as a Service:  The basic building block of cloud IT + Provide access to networking feature computer + storage like Azure + AWS + Oracle Cloud: For Admins
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/b0f34164-c29a-43cd-b458-bb6c03b33266)
+
 
 # Types of Cloud Computing Responsibilities
 ![image](https://user-images.githubusercontent.com/74914096/168787964-21b2a654-284a-439b-95ee-5fe67d09663b.png)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/31363599-13d4-4fe5-959f-37d2166e312e)
+
 
 
 # Cloud Deployment Models
-1. Public Cloud : Everything built on the cloud provider  + Cloud Native + Everything run on azure.
+1. Public Cloud: Everything built on the cloud provider  + Cloud Native + Everything run on azure.
 2. Private Cloud : Everything build on company data center + On-Premise + The cloud could be OpenStack.
 3. Hybrid : On-Premise & Cloud Service Provider
 4. Cross Cloud : Multiple Cloud Provider
