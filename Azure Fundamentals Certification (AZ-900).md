@@ -97,14 +97,13 @@
 
 # Types of Cloud Computing Responsibilities
 ![image](https://user-images.githubusercontent.com/74914096/168787964-21b2a654-284a-439b-95ee-5fe67d09663b.png)
-![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/31363599-13d4-4fe5-959f-37d2166e312e)
 
 
 
 # Cloud Deployment Models
-1. Public Cloud: Everything built on the cloud provider  + Cloud Native + Everything run on azure.
-2. Private Cloud : Everything build on company data center + On-Premise + The cloud could be OpenStack.
-3. Hybrid : On-Premise & Cloud Service Provider
+1. Public Cloud: Everything is built on the cloud provider  + Cloud Native + Everything runs on Azure.
+2. Private Cloud: Everything is built on the company data center + On-Premise + The cloud could be OpenStack.
+3. Hybrid: On-Premise & Cloud Service Provider
 4. Cross Cloud : Multiple Cloud Provider
 
 ![image](https://user-images.githubusercontent.com/74914096/168786680-25b9b7d6-d5f4-4a4d-9e22-3db9e90a53b9.png)
