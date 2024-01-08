@@ -171,41 +171,57 @@
 2. Geography: Discreet market of two or more regions that preserves data residency & compliance boundaries.
 3. Azure Geographies: USA + Azure Government US + Canada + Brazil + Mexico .i.e you want to guarantee that data will remain within Canada.
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/2846a228-41aa-437e-9d00-7c0200919a4e)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/baac42fe-047e-4a09-8dc4-d55706d7f343)
 ![image](https://user-images.githubusercontent.com/74914096/169470771-7be38be0-56f6-4098-b091-7e33ea1f7953.png)
 ![image](https://user-images.githubusercontent.com/74914096/169470858-4a42eb6b-3117-412e-a380-0e77b4392749.png)
 
 # Paired Regions
 1- One region is paired with another region 300 miles away.
-2- Only one region is updated at time .
-3- Some Azure Services rely on paried regions for disaster recovery.
-4- GRS (azure geo-redundant storage) : replicate data to a secondary region automatically.
+2- Only one region is updated at a time.
+3- Some Azure Services rely on paired regions for disaster recovery.
+4- GRS (azure geo-redundant storage) automatically replicates data to a secondary region.
 5- Example : Canada + Canada Central + Canada East
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/6b55a247-203b-4d20-a6ec-280f4fc0bb06)
 
-# Region Types and Service Availability
-1. Not all azure services are available in every region
-2. Recommended regions : provide broadest range of servies + Design to support Availabity Zone 
-3. Alternate regions : region that extends footprint within a data residency boundary where recommended regions also exist + Not support Availabity Zone + label as "Other" in azure portal.
-4. General Availability : Service publicy availabil to everyone.
 
-# Azure Cloud Services 
+# Region Types and Service Availability OR Availability  Options
+1. Not all Azure services are available in every region
+2. Recommended regions: provide the broadest range of services and design to support the Availability Zone 
+3. Alternate regions: a region that extends its footprint within a data residency boundary where recommended regions also exist + do Not support Availability Zone + label as "Other" in Azure portal.
+4. General Availability: Service is publicly available to everyone.
+ 
 1.  3 Catagories
-2.  Foundational : Available immediately or in 12 month in recommended + alternate region in GA.
-3.  MainStream : Available immediately or in 12 month in recommended regions + maybe available in alternate region on customer demand.
-4.  Specialized : Available in recommended or alternate region based on customer demand.
-
+2.  Foundational: Available immediately or in 12 months in recommended + alternate region in GA.
+3.  MainStream: Available immediately or in 12 months in recommended regions + maybe available in alternate regions on customer demand.
+4.  Specialized: Available in recommended or alternate regions based on customer demand.
+   ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/54a43585-0f1e-488e-b383-b859ed7fe1ac)
 
 # Special Regions
 ![image](https://user-images.githubusercontent.com/74914096/169475053-3281ceb1-d574-495d-99b8-1d30b303f3f2.png)
 
 # Availability Zones
-1. AZ : Physical Location with one or more data-center.
-2. DataCenter : Secured that contains hundard of thousand computers. 
-3. Region : Generally contain 3 AZ + Datacenter within region are isolated with each other in differnt buildings but they will close engouh to avoid latency.
+1. AZ: Physical Location with one or more data centers.
+2. DataCenter: Secured that contains hundreds of thousands of computers. 
+3. Region: Generally contains 3 AZ + data centers within the region that are isolated from each other in different buildings but they will close enough to avoid latency.
 4. For high availability we run workload in at least 3  AZs.
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/257158e0-786e-4fad-a48b-ea0e3dab54b6)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/5cff6dc7-bf6b-4fcc-bdaa-4bfd3c0376e1)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/176969d8-b227-4d4a-85af-dc29bd4f813b)
 
-![image](https://user-images.githubusercontent.com/74914096/169476995-a1dfb935-a4d7-4d13-8693-50d779796911.png)
+
 
 # AZ Supported Regions
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/ca89f3d6-0eb8-470c-8866-210af949949e)
+
+# Available Set: Fault & Update Domain
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/7f728a46-e3f8-4a9e-acbd-010a96ccd114)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/2c5812ae-0aae-4fa6-9d45-fdf5b11f6d05)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/40cd2791-f768-4a28-b46c-9e089bb0d5b2)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/c2a61ce8-856f-43b2-a1bc-e7001b1143e7)
+
+https://learn.microsoft.com/en-gb/azure/virtual-machines/availability
+
+
 
 
 
