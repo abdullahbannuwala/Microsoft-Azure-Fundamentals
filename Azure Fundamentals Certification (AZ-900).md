@@ -222,7 +222,18 @@
 https://learn.microsoft.com/en-gb/azure/virtual-machines/availability
 
 
+# Create Azure Portal
+# Create Subscription > Go to Resource Providers
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/15c02621-4c2d-430e-ab7b-131724b391e2)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/68a9c3cc-1938-46fe-a497-678f5247b300)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/cf7365b5-270e-464a-9b7f-b22864ebfe8d)
 
+
+
+# Create a User Account > Go to Microsoft Entra ID
+1. Go Azure AD is now Microsoft Entra ID
+2. Create Group
+3. Create User
 
 
 
