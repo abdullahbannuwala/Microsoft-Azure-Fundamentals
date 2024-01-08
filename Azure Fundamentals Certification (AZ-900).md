@@ -167,10 +167,10 @@
 # Global Infrastructure
 
 # Regions and Geographies
-1. Region : is a grouping of multiple datacenters (Availability Zone) + 58 Region accross 140 Countries.
-2. Geograhy : Discreet market of two or more regions that preserves data residency & compliance boundaries.
-3. Azure Geographies : USA + Azure Government US + Canada + Barzil + Mexico .i.e you want to guarantee that data will remain within canda.
-
+1. Region: is a grouping of multiple data centers (Availability Zone) + 58 Regions across 140 Countries.
+2. Geography: Discreet market of two or more regions that preserves data residency & compliance boundaries.
+3. Azure Geographies: USA + Azure Government US + Canada + Brazil + Mexico .i.e you want to guarantee that data will remain within Canada.
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/2846a228-41aa-437e-9d00-7c0200919a4e)
 ![image](https://user-images.githubusercontent.com/74914096/169470771-7be38be0-56f6-4098-b091-7e33ea1f7953.png)
 ![image](https://user-images.githubusercontent.com/74914096/169470858-4a42eb6b-3117-412e-a380-0e77b4392749.png)
 
