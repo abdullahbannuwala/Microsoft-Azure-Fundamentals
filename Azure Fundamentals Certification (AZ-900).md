@@ -230,10 +230,48 @@ https://learn.microsoft.com/en-gb/azure/virtual-machines/availability
 
 
 
-# Create a User Account > Go to Microsoft Entra ID
+# Lab: Create a User Account > Go to Microsoft Entra ID
 1. Go Azure AD is now Microsoft Entra ID
 2. Create Group
 3. Create User
+4. MFA For User
+
+# Computing Services
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/75935f23-f2d6-46e4-a4bd-38f83935f7aa)
+
+# Azure Virtual Machine
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/dfb6de9d-1f4b-4991-b98c-78c4074b57b4)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/e97e57c7-18ec-49d8-9fbd-50536f433f5c)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/74bfeef0-94ad-450f-b3a5-7e70fb630d2f)
+
+# Azure Virtual Machine Operating Systems
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/ef59ced8-0807-4904-bb1f-998dfc9afd94)
+
+# Azure Virtual Machine Scale Sets
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/b5240d12-bf13-4165-aef9-65d1c0a9addf)
+
+# Scale Sets: Load Balancer
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/c9c4884b-29e3-418a-90da-1897dcf8d207)
+
+# Azure Scale Sets: Scaling Policies
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/ad2cfc60-0c21-49ee-be66-c592e7f29e2b)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/6558bf25-d92e-4077-a093-f5526444ba5e)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/360c12f5-4a7d-4ba0-9e97-e79e59b09b9e)
+
+# Azure Scale Sets: Health Monitoring
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/045f4594-0a13-4dea-8367-9dc54c170dc3)
+
+# Azure Virtual Desktop
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/784990bd-d763-477a-ba6d-486aaeadc4a5)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/d781ade3-5c21-4e1e-b114-0f8c817103a0)
+
+# Lab: Lunching a Server
+
+
+
+
+
+
 
 
 
