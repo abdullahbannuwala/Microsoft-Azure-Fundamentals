@@ -282,10 +282,23 @@ https://learn.microsoft.com/en-gb/azure/virtual-machines/availability
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/8e90fc8c-689e-4542-a660-c0477e432cd4)
 
 # Azure App Service: App Service Environment
+
+  - Virtual IP 
+    - Internal: The endpoint is an internal load balancer (ILB ASE)
+    - External: Exposes the ASE-hosted apps on an internet-accessible IP address
+
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/4d05cd75-c67d-4249-bd3a-3c8d95e22327)
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/c6360f1c-9dbf-49c8-aa30-e88ed8af8b2f)
-![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/7218079a-da12-48ea-a829-10b8291d7bf2)
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/6f9ebb8e-d364-414e-97b0-d10534b3813e)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/7218079a-da12-48ea-a829-10b8291d7bf2)
+
+# Azure App Service: Plan
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/ff463948-94fd-4941-a0f2-44d96c70483b)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/cffcf7b5-c85e-4559-ae33-0bffe9a0f231)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/907fc5db-7b50-485f-a1c7-69fb00376722)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/42a345da-1dbc-4244-9828-9b20bb27fecf)
+
+https://portal.azure.com/#view/WebsitesExtension/ScaleSpecPicker.ReactView/data~/%7B%22allowAseV2Creation%22%3Afalse%2C%22allowAseV3Creation%22%3Atrue%2C%22forbiddenSkus%22%3A%5B%5D%2C%22hostingEnvironmentName%22%3Anull%2C%22isElastic%22%3Afalse%2C%22isFunctionApp%22%3Afalse%2C%22isLinux%22%3Atrue%2C%22isNewFunctionAppCreate%22%3Afalse%2C%22isJBoss%22%3Afalse%2C%22isWorkflowStandard%22%3Afalse%2C%22isXenon%22%3Afalse%2C%22location%22%3A%22East%20US%22%2C%22selectedLegacySkuName%22%3A%22P1V3%22%2C%22subscriptionId%22%3A%221deedf2a-89e9-448d-8bd9-eca56addbc33%22%2C%22aseId%22%3Anull%7D/id/%2Fsubscriptions%2F1deedf2a-89e9-448d-8bd9-eca56addbc33
 
 
 
