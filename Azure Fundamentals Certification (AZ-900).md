@@ -18,7 +18,7 @@
 1.  Build developer resume.
 2.  Build Confidence
 
-# Time requriments for AZ-900?
+# Time requirements for AZ-900?
 1. Developer = 8 hour of study
 2. Bootcamp Grad = 15 hours of study
 3. Sales & Management = 20 hours of study
