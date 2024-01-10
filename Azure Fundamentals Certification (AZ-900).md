@@ -267,6 +267,30 @@ https://learn.microsoft.com/en-gb/azure/virtual-machines/availability
 
 # Lab: Lunching a Server
 
+# Azure App Service
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/3166a405-12fa-44ce-89b7-f2ce7c06f8f9)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/f5d71581-5d6d-4af4-b2e3-bb6021f9331c)
+
+# Azure App Service: Runtime
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/088f22a5-1ff9-46aa-ad08-0b422f197191)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/90deb6b0-fbc3-4307-88c7-4b23e7ce7d52)
+
+# Azure App Service: Custome Container
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/347719e1-60a9-40e8-9d99-d275fecf12d4)
+
+# Azure App Service: Deployment Slot
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/8e90fc8c-689e-4542-a660-c0477e432cd4)
+
+# Azure App Service: App Service Environment
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/4d05cd75-c67d-4249-bd3a-3c8d95e22327)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/c6360f1c-9dbf-49c8-aa30-e88ed8af8b2f)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/7218079a-da12-48ea-a829-10b8291d7bf2)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/6f9ebb8e-d364-414e-97b0-d10534b3813e)
+
+
+
+
+
 
 
 
