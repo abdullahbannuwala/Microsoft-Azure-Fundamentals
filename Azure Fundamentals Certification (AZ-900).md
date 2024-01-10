@@ -297,11 +297,16 @@ https://learn.microsoft.com/en-gb/azure/virtual-machines/availability
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/cffcf7b5-c85e-4559-ae33-0bffe9a0f231)
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/907fc5db-7b50-485f-a1c7-69fb00376722)
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/42a345da-1dbc-4244-9828-9b20bb27fecf)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/dfb48f16-233d-4988-9b0c-d414129a1792)
+https://azure.microsoft.com/en-us/pricing/details/app-service/windows/?ef_id=_k_CjwKCAiA-vOsBhAAEiwAIWR0TfZHwNmdIBAAohf9fi1v5gOcHbOwxiSGmgOkR2sn1DXvFuQ-vV9xJxoCx-MQAvD_BwE_k_&OCID=AIDcmm8ge9eggm_SEM__k_CjwKCAiA-vOsBhAAEiwAIWR0TfZHwNmdIBAAohf9fi1v5gOcHbOwxiSGmgOkR2sn1DXvFuQ-vV9xJxoCx-MQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiA-vOsBhAAEiwAIWR0TfZHwNmdIBAAohf9fi1v5gOcHbOwxiSGmgOkR2sn1DXvFuQ-vV9xJxoCx-MQAvD_BwE#pricing
 
-https://portal.azure.com/#view/WebsitesExtension/ScaleSpecPicker.ReactView/data~/%7B%22allowAseV2Creation%22%3Afalse%2C%22allowAseV3Creation%22%3Atrue%2C%22forbiddenSkus%22%3A%5B%5D%2C%22hostingEnvironmentName%22%3Anull%2C%22isElastic%22%3Afalse%2C%22isFunctionApp%22%3Afalse%2C%22isLinux%22%3Atrue%2C%22isNewFunctionAppCreate%22%3Afalse%2C%22isJBoss%22%3Afalse%2C%22isWorkflowStandard%22%3Afalse%2C%22isXenon%22%3Afalse%2C%22location%22%3A%22East%20US%22%2C%22selectedLegacySkuName%22%3A%22P1V3%22%2C%22subscriptionId%22%3A%221deedf2a-89e9-448d-8bd9-eca56addbc33%22%2C%22aseId%22%3Anull%7D/id/%2Fsubscriptions%2F1deedf2a-89e9-448d-8bd9-eca56addbc33
 
 
+# Lab: Azure App Service: Configure and Deploy App Service
+https://learn.microsoft.com/en-us/azure/app-service/
+https://github.com/Azure-Samples
 
+# Azure Container Instances (ACI)
 
 
 
