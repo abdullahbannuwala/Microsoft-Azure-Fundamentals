@@ -1,8 +1,8 @@
 # Introduction - Why should I get the AZ 900?
 
-1. Entry level could certificaiton.
+1. Entry level could certification.
 2. Course code AZ-900
-3. Azure Core Services + Fundamental of cloud computing + Hands-on experiance working with the Azure Portal
+3. Azure Core Services + Fundamental of cloud computing + Hands-on experience working with the Azure Portal
 
 # The Azure RoadMap
 1. Fundamental + Associate + Expert + Specialty 
@@ -10,8 +10,8 @@
 
 
 # Who is the AZ-900 for?
-1. Sales & Management to help inform VPs or CEO reasons for their company to utilize Microsoft azure.
-2. Developer to show they are familiar knowlege with cloud concept.
+1. Sales & Management to help inform VPs or CEO of reasons for their company to utilize Microsoft Azure.
+2. Developers to show they are familiar knowledge with cloud concepts.
 3. AZ-900 focuses on billing, security & business centric concepts.
 
 # Value AZ-900 hold?
