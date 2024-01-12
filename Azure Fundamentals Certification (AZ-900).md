@@ -326,7 +326,10 @@ https://github.com/Azure-Samples
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/30351faf-7a72-4337-b79b-7d9a2a428774)
 
 # Azure Virtual Network: VNet
+Create a virtual network to securely connect your Azure resources to each other. Connect your virtual network to your on-premises network using an Azure VPN Gateway or ExpressRoute.
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/4ac5d3b4-d259-4069-89c3-3f83a9e2f89d)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/815ebedb-efdb-48a4-ad8b-91bebb586e28)
+
 
 # Azure Virtual Network: VNet Peering
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/ecb36ccb-2877-4a2d-8857-bf012560608b)
