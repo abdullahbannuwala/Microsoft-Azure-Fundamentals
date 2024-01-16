@@ -21,6 +21,39 @@
 
 
 # Azure Storage Account: Replication and Data Redundancy
+The data in your Azure storage account is always replicated to ensure durability and high availability. Choose a replication strategy that matches your durability requirements. Some settings can't be changed after the storage account is created.
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/4b570285-1f4e-4d7e-b34f-517aa0acb969)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/c0cb91e0-f2aa-48f3-a72a-830a8dc990fc)
 
+# Azure Storage Account: Locally Redundant Storage & Zone Redundant Storage
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/8ff0e241-3611-424b-886c-fad4b03d0db2)
 
+# Azure Storage Account: Geo Redundant Storage & Geo-Zone Redundant Storage
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/143dcf2b-8915-4f89-94c7-d02d3eff5cd6)
 
+# Azure Storage Account: Read Access Geo Redundant Storage & Read Access Geo-Zone Redundant
+It's almost similar to the above option but the key difference data is synchronously copied to another region.
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/5b477c9c-c730-48b8-8e41-6216203d0b9e)
+
+# Azure Storage Account: Azure Blob
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/b7bb1a11-c272-4724-99b5-2ca418d41ae8)
+
+#  Azure Storage Account: Azure Blob Types
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/ac64e266-822a-417e-a82b-0ffccfdf416b)
+
+# Azure Storage Account: AZCopy
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/625e2321-83b1-4364-9077-6fb9c89b2de3)
+
+# Azure Storage Account: Azure Storage Explorer
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/a64e3d24-5893-4b6a-936b-ae2691e760f9)
+
+# Azure Storage Account: Azure Files
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/530ad95e-a560-478e-92c5-e0b6b2d6321c)
+
+# Azure Storage Account: Azure Files Use Cases
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/34c74eb4-0af6-4068-8eec-6db596a7df41)
+
+# Azure Storage Account: Azure Files Sync
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/97d382f5-6a72-4579-8b4f-f37a5be3f54d)
+
+# Lab: Azure Storage Account
