@@ -22,62 +22,19 @@
 Which SSO protocol is best suited for a given scenario?
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/7f716f7c-ddb0-479d-98d9-a33c0be28f71)
 
-SAML (Security Assertion Markup Language):
+# Multi-Factor Authentication
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/8b3d932c-5f77-4288-94b5-aa1b4b129fe5)
 
-Use When:
-You are integrating with enterprise-level or legacy applications, especially those that are standards-based and designed to work with SAML.
-The application or service provider explicitly supports SAML.
-You need a high degree of security and control over user authentication and authorization.
-The application requires detailed assertions about the user's identity and permissions
+# Azure AD - External Identities
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/6ad7bc86-c858-48d7-81bc-4971b4f7c0f5)
 
-OAuth 2.0:
-
-Use When:
-You need to authorize third-party applications to access resources (like user data) without exposing user credentials.
-The application involves API access where the application needs permission to perform actions on behalf of the user.
-You need a flexible authorization mechanism that can be scaled and customized for different types of applications, from mobile apps to web services.
-
-OpenID Connect (OIDC):
-
-Use When:
-You need an authentication layer on top of OAuth 2.0. OIDC is essentially OAuth 2.0 with additional identity verification.
-The application is modern and designed to work with the latest web and mobile authentication mechanisms.
-You need to retrieve basic profile information about the authenticated user (like name, email, etc.).
-
-WS-Federation:
-
-Use When:
-You are working with legacy systems, particularly those built on Microsoft technology stacks that natively support WS-Federation.
-The integration environment is heavily invested in WS-* standards and SOAP-based services.
-You require interoperability with systems that are already using WS-Federation for SSO.
+# Conditional Access
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/9f133a63-a32d-40d0-84f1-f44abf9ef402)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/b66534e8-4eda-474f-a494-ac01dd379a0e)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/44ac2abd-dedb-443c-a297-db1aa0f7bc79)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/014358d3-cf31-4d63-8b60-4381466ac759)
 
 
-Password-Based Authentication:
-
-Use When:
-The application requires a simple and direct authentication method without the need for SSO or third-party identity providers.
-You're dealing with legacy systems that do not support modern SSO protocols.
-The application is internal or has a limited user base where the convenience of SSO is not a primary concern.
-
-Linked Authentication:
-
-Use When:
-You want to link multiple identity providers or authentication systems to a single user account.
-The application needs to support authentication from various sources (like social logins, enterprise logins, etc.) while maintaining a unified user identity.
-You're aiming to enhance user experience by providing multiple login options.
 
 
-Integrated Windows Authentication (IWA):
 
-Use When:
-You have a predominantly Windows-based infrastructure and you want to leverage the user's existing Windows credentials for authentication.
-The application is internal to an organization, and users are on a corporate network.
-You're looking for a seamless authentication experience for users within the Windows ecosystem.
-
-
-Header-Based Authentication:
-
-Use When:
-The application or system relies on an external gateway or a proxy for authentication.
-You need to integrate with legacy applications that rely on user information being passed through HTTP headers.
-There’s a need to support a custom authentication mechanism where the application consumes user credentials from HTTP headers set by an intermediate system, like a reverse proxy or a load balancer.
