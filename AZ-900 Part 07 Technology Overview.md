@@ -64,3 +64,18 @@ This is where you write the letter and decide what you want to say to your frien
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/3600ece3-783a-4d06-becc-dcd9fe8d719e)
 
 
+# AI/ML Services Introduction
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/813fdc5d-8f54-4522-a9cd-038de9054f4d)
+
+# AI/ML Services
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/aca6a6fc-a88d-4888-82f0-1984832987c0)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/77b2be7d-9dd9-407f-b5fa-9a34e570a8b0)
+
+# Serverless Services
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/4ea046ab-9ccb-45ad-b9e6-32b163e86a8b)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/d09831ea-2db9-4374-b8dd-5a23cee8ef8d)
+
+# Follow Along 
+
+# Create a Resource Group
+# Creating an Azure Function
