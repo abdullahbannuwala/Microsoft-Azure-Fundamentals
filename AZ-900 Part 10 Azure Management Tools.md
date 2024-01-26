@@ -28,3 +28,14 @@
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/d25136ef-b6de-4970-ad8f-6dcbabc1c296)
 
 # Azure SDK: Lab 
+
+# Introduction to Azure Resource Group Manager
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/9899073a-ffd7-4216-baf6-476ecf26ca8c)
+
+# ARM - Use Cases
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/b2d66b17-22c5-44c9-b17d-b786b4b3433b)
+
+# ARM - Scoping
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/9e26c8bb-4d8f-43e8-89d1-0b8363b704b3)
+
+
