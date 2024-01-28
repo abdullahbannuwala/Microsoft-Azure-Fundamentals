@@ -38,4 +38,12 @@
 # ARM - Scoping
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/9e26c8bb-4d8f-43e8-89d1-0b8363b704b3)
 
+# Introduction to ARM  Templates
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/b0a46965-24b1-4d33-b657-fd22765ca8ec)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/5c89a3ac-f397-4fee-a96b-bf9218e8db07)
 
+#  ARM: Lab
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/4dcadff2-d867-4b1a-8ad2-5153233150d1)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/e162c6a8-3101-431d-a1a0-4bbc76ffda30)
+
+# Azure Bicep
