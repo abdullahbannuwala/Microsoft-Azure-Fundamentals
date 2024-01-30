@@ -46,4 +46,12 @@
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/4dcadff2-d867-4b1a-8ad2-5153233150d1)
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/e162c6a8-3101-431d-a1a0-4bbc76ffda30)
 
-# Azure Bicep
+# Azure Bicep : Lab
+- VS Code 
+- Extensions
+- Chatgpt
+
+# Azure Terraform : Lab
+- Basic commad, terraform init, terraform plan, terrafrom apply , terrafrom destroy
+
+# Free Tier Spend and Usage : Lab
