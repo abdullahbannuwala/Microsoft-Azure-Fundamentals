@@ -46,7 +46,7 @@
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/4dcadff2-d867-4b1a-8ad2-5153233150d1)
 ![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/e162c6a8-3101-431d-a1a0-4bbc76ffda30)
 
-# Azure Bicep : Lab
+# Azure Bicep: Lab
 - VS Code 
 - Extensions
 - Chatgpt
@@ -54,4 +54,29 @@
 # Azure Terraform : Lab
 - Basic commad, terraform init, terraform plan, terrafrom apply , terrafrom destroy
 
-# Free Tier Spend and Usage : Lab
+# Free Tier Spend and Usage: Lab
+
+# Azure Monitor
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/2df4b37d-5290-4051-9cb7-01b30be363eb)
+
+# The Pillars of Observability
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/c4fb957c-f0b6-4928-b869-1260e59d1d9d)
+
+# Anatomy of Azure Monitor
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/62e4bc2c-546b-40ec-bb5a-034ccdee4d94)
+
+# Log Analytics
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/87249d01-d710-4bab-8933-5feccccfdcbe)
+
+# Log Analytics Workspaces
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/d21520b1-d00a-4c47-aa3a-fcbac74fe670)
+
+# Azure Alert
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/fbd9e91b-019e-40ee-af6d-e17e6c6b2326)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/b2e5db28-3f08-48c2-a320-739c586298b1)
+
+# Application Insights
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/01acbed4-bd1a-4700-9277-b5dfca3e6e6d)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/a2adfe88-30a8-403f-b560-194d3c50282e)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/5751338f-ac7b-4031-b490-e1dc1184deaf)
+
