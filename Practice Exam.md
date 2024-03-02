@@ -176,7 +176,6 @@ Here is a list of questions mentioned in the video:
     - Answer: Operational
 
 42. Your company plans to deploy an artificial intelligence solution in Azure. What should the company use to build, test, and deploy predictive analytic solutions?
-    -
 
  Options: Azure Machine Learning Designer, Azure Logic Apps, Azure Cosmos DB, Azure Batch
     - Answer: Azure Machine Learning Designer
@@ -462,3 +461,66 @@ Here is a list of questions mentioned in the video:
     - Answer: The feature is being beta tested by a limited number of Azure customers only
 
 ------------------
+I apologize for the oversight. Continuing from where we left off to complete the list:
+
+71. A company wants to ensure that their Azure virtual machines are always using the latest patched version of the operating system without manual intervention. Which feature should they use?
+    - Options: Azure Automation, Azure Update Management, Azure Policy, Azure Security Center
+    - Answer: Azure Update Management
+
+72. Your organization needs to analyze streaming data from IoT devices in real-time. Which Azure service should you use?
+    - Options: Azure Stream Analytics, Azure IoT Hub, Azure Event Hubs, Azure Logic Apps
+    - Answer: Azure Stream Analytics
+
+73. You are designing a microservices architecture that needs to be deployed on Azure. Which service provides the best environment for microservices?
+    - Options: Azure Kubernetes Service (AKS), Azure Service Fabric, Azure Functions, Azure App Service
+    - Answer: Azure Kubernetes Service (AKS)
+
+74. A company requires a secure, private connection from their on-premises data center to Azure. Which Azure service should they use?
+    - Options: Azure VPN Gateway, Azure ExpressRoute, Azure Virtual Network, Azure Application Gateway
+    - Answer: Azure ExpressRoute
+
+75. You need to store terabytes of unstructured data that will be accessed infrequently but requires fast access when needed. Which Azure storage solution should you use?
+    - Options: Azure Blob Storage with cool access tier, Azure Blob Storage with archive access tier, Azure File Storage, Azure Table Storage
+    - Answer: Azure Blob Storage with cool access tier
+
+76. Your application needs to send email notifications to users. Which Azure service should you use to achieve this without managing an email server?
+    - Options: Azure Logic Apps, Azure SendGrid, Azure Notification Hubs, Azure Event Grid
+    - Answer: Azure SendGrid
+
+77. A company wants to deploy a containerized application to Azure and manage it using Kubernetes. Which Azure service should they use?
+    - Options: Azure Container Instances, Azure Kubernetes Service (AKS), Azure Service Fabric, Azure App Service
+    - Answer: Azure Kubernetes Service (AKS)
+
+78. You are tasked with setting up a development environment that can be easily replicated and disposed of. Which Azure service provides this capability?
+    - Options: Azure DevTest Labs, Azure Virtual Machines, Azure Resource Manager templates, Azure Container Instances
+    - Answer: Azure DevTest Labs
+
+79. A business requires a database solution that automatically scales throughput based on demand. Which Azure service should they choose?
+    - Options: Azure SQL Database, Azure Cosmos DB, Azure Database for PostgreSQL, Azure Table Storage
+    - Answer: Azure Cosmos DB
+
+80. You need to ensure that your Azure services are compliant with external regulations and internal policies. Which Azure service provides policy-based governance for your Azure resources?
+    - Options: Azure Policy, Azure Compliance Manager, Azure Governance, Azure Monitor
+    - Answer: Azure Policy
+
+81. Your company wants to implement a cloud-based data warehousing solution that integrates with Azure Data Lake Storage. Which Azure service should you use?
+    - Options: Azure Synapse Analytics, Azure HDInsight, Azure Data Factory, Azure Databricks
+    - Answer: Azure Synapse Analytics
+
+82. A company needs a service that allows them to orchestrate and automate complex workflows across multiple Azure and on-premises services. Which Azure service should they use?
+    - Options: Azure Logic Apps, Azure Functions, Azure Automation, Azure Service Bus
+    - Answer: Azure Logic Apps
+
+83. You are designing a solution that requires a NoSQL database with low-latency data access at global scale. Which Azure service should you choose?
+    - Options: Azure Cosmos DB, Azure Table Storage, Azure Blob Storage, Azure SQL Database
+    - Answer: Azure Cosmos DB
+
+84. A business needs to protect their Azure virtual machines from malware and other threats. Which Azure service provides threat protection for virtual machines?
+    - Options: Azure Security Center, Azure Firewall, Azure Antimalware, Azure Defender
+    - Answer: Azure Security Center
+
+85. You need to monitor the performance and health of your Azure infrastructure and applications. Which Azure service provides comprehensive monitoring capabilities?
+    - Options: Azure Monitor, Azure Advisor, Azure Log Analytics, Azure Application Insights
+    - Answer: Azure Monitor
+
+This completes the list of questions and answers based on the video content provided.
