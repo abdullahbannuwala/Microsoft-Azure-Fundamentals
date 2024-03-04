@@ -339,9 +339,20 @@ I apologize for the oversight. Continuing from where we left off to complete the
     - Options: Azure Synapse Analytics, Azure HDInsight, Azure Data Factory, Azure Databricks
     - Answer: Azure Synapse Analytics
 
+- **Azure Synapse Analytics**: Integrates big data and data warehousing to analyze large volumes of data quickly, solving the problem of siloed data and slow insights.
+- **Azure HDInsight**: Offers a managed cloud Hadoop service for processing big data, solving the problem of deploying, managing, and scaling big data environments.
+- **Azure Data Factory**: Enables data integration and workflow orchestration, solving the problem of data silos by allowing data movement between various data stores.
+- **Azure Databricks**: Provides a collaborative Apache Spark-based analytics platform, solving the problem of processing big data and building machine learning models at scale.
+
 82. A company needs a service that allows them to orchestrate and automate complex workflows across multiple Azure and on-premises services. Which Azure service should they use?
     - Options: Azure Logic Apps, Azure Functions, Azure Automation, Azure Service Bus
     - Answer: Azure Logic Apps
+
+- **Azure Logic Apps**: Automates workflows and integrates apps, data, services, and systems, solving complex orchestration problems without writing code.
+- **Azure Functions**: Offers serverless computing to run event-driven code without managing infrastructure, solving scalability and cost-efficiency problems.
+- **Azure Automation**: Automates cloud management tasks and orchestrates workflows across Azure and third-party services, solving repetitive and complex administration tasks.
+- **Azure Service Bus**: Provides reliable cloud messaging as a service (MaaS) between applications and services, solving problems of decoupled communication and scalable architecture.
+
 
 83. You are designing a solution that requires a NoSQL database with low-latency data access at global scale. Which Azure service should you choose?
     - Options: Azure Cosmos DB, Azure Table Storage, Azure Blob Storage, Azure SQL Database
