@@ -97,6 +97,7 @@
 
 # Types of Cloud Computing Responsibilities
 ![image](https://user-images.githubusercontent.com/74914096/168787964-21b2a654-284a-439b-95ee-5fe67d09663b.png)
+![image](https://github.com/abdullahbannuwala/Microsoft-Azure-Fundamentals/assets/74914096/a420c200-d936-4061-baa2-3b65a4dcb9e4)
 
 
 
